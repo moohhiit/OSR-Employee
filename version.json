@@ -1,1 +1,5 @@
-{ "version": "1.0.0", "apkUrl": "https://...", "releaseNotes": "..." }
+{
+  "version": "1.0.0",
+  "apkUrl": "https://github.com/moohhiit/OSR-Employee/releases/download/v1.0.0/OSREmployee",
+  "releaseNotes": "Fix Version System"
+}
